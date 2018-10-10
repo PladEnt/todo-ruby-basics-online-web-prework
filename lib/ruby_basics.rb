@@ -5,6 +5,7 @@ end
 
 def assign_variable(vaule)
   vaule = name
+  name
 end
 
 def argue
