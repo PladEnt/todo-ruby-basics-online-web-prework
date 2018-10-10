@@ -3,8 +3,8 @@ def division(num1, num2)
  a
 end
 
-def assign_variable(name)
-  
+def assign_variable(vaule)
+  vaule = name
 end
 
 def argue
