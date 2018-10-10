@@ -25,6 +25,6 @@ end
 
 def pizza_party(x)
   return "cheese"
-  return x
+  x
 
 end
